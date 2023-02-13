@@ -40,7 +40,7 @@ First of all, I searched the definition of "human survival law" on Google, and g
 
 A Google search for "universal genetic mutation" turns up in the third entry an explanation of the basic characteristics of genetic mutation from Abace Biotechnology. Gene mutation is random and undirected. Under the condition of natural mutation and artificial mutation, universal gene mutation may occur in lower or higher organisms, while under the condition of natural mutation, there are few mutations, and most gene mutations are harmful to the growth of organisms, which may lead to the loss of original gene function, cancer and other harms.
 
-# 疑问：人类的生存法则长期在平等性失效的基因社会下有什么变化？
+## 疑问：人类的生存法则长期在平等性失效的基因社会下有什么变化？
 
 ## Q: How does the law of human survival change in the long-term under the genetic society where equality fails?
 
@@ -75,3 +75,9 @@ Therefore, I searched "Computer survival simulation" in the science and technolo
 我的思路框架就是将构建人体的基因突变、增值、演化的3D可视化，然后将基因联系到个体生物。在planner中以优先级和时间线建立感知因子和各种生存变量（速度、力量、智力等），以及设置生命周期、基因等级和Environment，并以Action设置何时执行。最终观察计算机推演的基因社会的生存参数是什么，从而总结生存的规律以及法则。
 
 My thinking framework is to build 3D visualizations of the mutation, increment, and evolution of genes in the human body, and then link the genes to individual organisms. Set up perception factors and various survival variables (speed, strength, intelligence, etc.) in the planner with priorities and timelines, as well as set life cycle, gene level, and Environment, and set when to execute with Action. Finally, observe what the survival parameters of gene society deduced by computer are, so as to summarize the rules and laws of survival.
+
+
+
+
+# Week12.1-计算机如何推演基因社会下的人类生存法则？
+# Week12.1-How can computers deduce the laws of human existence in a genetic society?
