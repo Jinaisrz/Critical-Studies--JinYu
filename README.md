@@ -1,11 +1,9 @@
 # Critical-Studies--JinYu
 
 # Week12.1-计算机如何推演基因社会下的人类生存法则？
-
 # Week12.1-How can computers deduce the laws of human existence in a genetic society?
 
 ## 疑问：什么是人类生存法则？
-
 ## Q: What is the law of human survival?
 
 ## 关键字/搜索引擎
