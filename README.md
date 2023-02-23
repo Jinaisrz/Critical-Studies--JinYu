@@ -145,3 +145,26 @@ Looking back on the original exhibition, I disagree with the decision of the ori
 
 The curator has omitted the power of the audience, so the power dynamic of the audience should be strengthened. In the exhibition, the audience belongs to a marginalized group, so that the thoughts of these groups can gain greater recognition in the exhibition, so that people can re-examine their own views. Lack of more diversified knowledge structure, can choose to explain or real-time online exhibition community to inspire the audience to think. It allows the audience to learn how to make simple speculative creation with surrealistic thinking, and increases interaction and knowledge mastery.
 
+
+
+
+
+
+
+# Week14.1
+
+读写能力对国家的地位和财务健康很重要，它一般解释为读与写的能力，用于使用和理解众多的交流方式。它也作为一种知识密码，在社会中各种领域的读写能力技能普遍反映了社会中人们的素养，例如：技术素养、金融素养、文化素养、视觉素养等。
+
+在以技术引导社会、文化发展的时代和当计算机编程被称为读写能力时，这意味着它被视为全面参与现代世界所必需的基本技能。编程也是一种社会定位的符号系统和交流现象，扩大了原有的交流形式。这正是因为计算机编程与写作有相似之处，因为它已经成为了组织信息的基本工具和方法，代码最原有的底层建立逻辑是在写作之上或之下的。所以，读写曾经是少数人的技能，编程语言也是如此，而这个过程需要通过“扫盲”，从而提升整个社会的数字化素养，促进经济、技术、社会的发展。
+
+阅读、编写、修改代码的不仅可以作为技能作用于创意商业、数据分析、数据交互、社会活动、艺术创作等领域。还可以作为一种认知能力，它涉及数学、解决问题、逻辑思维和创造思维等。在社会责任方面可以让人更好的理解数字技术世界的伦理和价值观，适应数字化世界，也可以认识到技术决策会对他人产生影响，从而促进道德以及社会责任感。
+
+Literacy is important to a nation's status and financial health, and it is generally interpreted as the ability to read and write to use and understand numerous modes of communication. It is also a kind of knowledge code, and the literacy skills in various fields in society generally reflect the literacy of people in society, such as technical literacy, financial literacy, cultural literacy, visual literacy, etc.
+
+In an age of technology-driven social and cultural development and when computer programming is called literacy, it means that it is seen as an essential skill necessary for full participation in the modern world. Programming is also a socially positioned symbolic system and communication phenomenon that amplifies pre-existing forms of communication. This is precisely because computer programming has similarities with writing, because it has become a basic tool and method for organizing information, and the original underlying logic of code is above or below writing. Therefore, reading and writing used to be the skills of a few people, as did programming languages, and this process requires "literacy" to improve the digital literacy of the entire society and promote economic, technological, and social development.
+
+Reading, writing, and modifying code can not only be used as skills in creative business, data analysis, data interaction, social activities, artistic creation and other fields. It can also be used as a cognitive ability, which involves mathematics, problem solving, logical thinking and creative thinking. In terms of social responsibility, people can better understand the ethics and values of the digital technology world, adapt to the digital world, and realize that technological decisions will affect others, thereby promoting morality and social responsibility.
+
+# Week14.2
+
+
