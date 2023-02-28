@@ -166,5 +166,53 @@ In an age of technology-driven social and cultural development and when computer
 Reading, writing, and modifying code can not only be used as skills in creative business, data analysis, data interaction, social activities, artistic creation and other fields. It can also be used as a cognitive ability, which involves mathematics, problem solving, logical thinking and creative thinking. In terms of social responsibility, people can better understand the ethics and values of the digital technology world, adapt to the digital world, and realize that technological decisions will affect others, thereby promoting morality and social responsibility.
 
 # Week14.2
+您有哪些新想法有助于解决编码素养的概念？哪些引语或句子激发您思考更多？
+ 
+使社会大众对编程了解以及提起兴趣
+要让大众知道编程在现代技术社会中是一种基础技能，也是一种工具，它可以运用在计算机开发、金融、大数据、艺术、设计等各种领域中。对于普通大众来说，学习编程可以提高解决问题的能力、计算机素养和创造力。这种社会普及可以由政府、教育机构、科技馆、代码艺术家等进行合作，以音乐、视觉、交互最直观的形式来向大众讲解术语非常简单的编程，以及提升兴趣。
+ 
+使大众提起兴趣还有其他因素。一、降低大众对编程难度的抵触。编程公司可以为大众开发最易懂的编程软件和编程语言，所有的编程都可以被打包成代码块，只需要使用非常简单的指令就可以调用。二、降低在编程硬件的花费。如Sam Aaron教授所说，可以仅支付25磅就可以购买一个Raspberry Pi来代替购买电脑，未来可以有更多工厂开发更好并且更便宜的编程硬件。
+ 
+编程学习类游戏：
+游戏一：
+通过代码编写可以编写出，一种需要编程才可以完的生存类游戏，类似沙盒游戏。玩家在游戏过程中的自由实践，自我养成，材料制造，设施建造，赚取钱币，打击对手等一系列游戏交互都可以由玩家输入代码来实现。例如，在打造一把金色的利刃，首先需要集齐金子的材料，其次加热融化，最后进入模具并打磨形成利刃，而玩家在这一过程中需要通过编写相应金色立方体的代码获得金子，通过编写温度表格中的加热来使金子融化，然后通过编码将融化好的材料移动到模具，最后对材料的移动设置循环编码200次可以将材料打磨成一个完整的金色利刃。
+ 
+游戏二：
+通过建立虚拟现实技术建立编程游戏，从而玩家可以增加游戏体验。从中玩家可以添加编程任务，让玩家解决任务中的编程问题，从而增加趣味性和提高玩家学习积极性。例如，人们可以通过代码控制游戏中的生物捕猎，人们通过编程说话声音可以显示相应的语言字符串，并且通过编程可以排列出相应的形状。
+ 
+开发团队协作编程软件
+团队协作编程软件的开发意味着可以使团队更好地协作，提高效率和质量，并且可以加强成员编程能力，因为该软件可以让成员们共同编写、互审、反馈、修改以及测试代码，从而使工作工程可以更规范化、更易于维护、更稳定。成员之间可以促进知识共享和学习，从而使个人编程素养提升和加快技术创新。
+ 
+教育
+1. 学校可以开放趣味性的编程课程，鼓励孩子参加编程夏令营，提升青少年编程大赛的规模，由此增加孩子对编程的系统性训练。
+2. 鼓励学生以编程视角去问问题，例如：现实生活中有什么问题可以通过编程可以改进？
+3. 给予孩子、青少年或者学生平等的机会去提供编程的解决方案。
 
+资源
+为学生、编程爱好者、社会大众提供更多的免费的讲座、编程线上课程和代码代码资源的开放。
+ 
+What new ideas do you have that help address the concept of coding literacy? What quotes or sentences have inspired you to think more?
+ 
+To create awareness and interest in programming in society at large
+It is important for the general public to know that programming is a fundamental skill and a tool that can be used in various fields such as computer development, finance, big data, art, design, etc. in the modern technological society. For the general public, learning programming can improve problem-solving skills, computer literacy, and creativity. This social popularization can be done by the government, educational institutions, science and technology museums, code artists, etc. to collaborate and teach the general public about programming in very simple terms in the most intuitive form of music, visuals, and interaction, as well as to raise interest.
+ 
+There are other factors that bring up the interest of the public. One, reducing the public's resistance to the difficulty of programming. Programming companies can develop the most understandable programming software and programming languages for the general public, and all programming can be packaged into blocks of code that can be invoked using very simple instructions. Second, reduce the amount of money spent on programming hardware. As Professor Sam Aaron said, you can pay only 25 pounds for a Raspberry Pi instead of buying a computer, and there will be more factories developing better and cheaper programming hardware in the future.
+ 
+Programming learning games.
+Game one.
+Through code writing can be written, a kind of survival game that requires programming to be completed, similar to sandbox games. Players in the game process of free practice, self-improvement, material manufacturing, facility construction, earning money, combat opponents, and a series of game interactions can be achieved by the player input code. For example, in building a golden blade, firstly you need to gather the materials of gold, secondly heat and melt them, and finally enter the mold and polish them to form the blade, and players need to get the gold by writing the code of the corresponding golden cube in this process, make the gold melt by writing the heating in the temperature table, then move the melted materials to the mold by coding, and finally set the cycle code for the movement of the materials 200 times can polish the material into a complete golden sharp edge.
+ 
+Game 2.
+The programming game is built by building virtual reality technology so that players can add to the gaming experience. From there players can add programming tasks that allow players to solve programming problems in the task, thus adding fun and increasing player motivation to learn. For example, people can control the creature hunting in the game through code, people can program their speech sounds to display the corresponding language strings, and they can program the corresponding shapes to be arranged.
+ 
+Development of collaborative team programming software
+The development of collaborative team programming software means that teams can collaborate better, improve efficiency and quality, and strengthen members' programming skills because it allows them to write, review, feedback, modify, and test code together, so that work can be more standardized, easier to maintain, and more stable. Knowledge sharing and learning among members can be facilitated, resulting in improved individual programming literacy and accelerated technological innovation.
+ 
+Education
+1. Schools can open up fun programming courses, encourage children to participate in programming camps, and increase the scale of youth programming competitions, thus increasing children's systematic training in programming.
+2. encourage students to ask questions from a programming perspective, such as: what real-life problems can be improved through programming?
+3. Give children, teens or students equal opportunities to provide programming solutions.
 
+Resources
+Provide more free lectures, programming online courses, and open access to code resources for students, programming enthusiasts, and the community at large.
+ 
