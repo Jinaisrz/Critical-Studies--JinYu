@@ -216,3 +216,24 @@ Education
 Resources
 Provide more free lectures, programming online courses, and open access to code resources for students, programming enthusiasts, and the community at large.
  
+# Week 15
+The work I would like to discuss is Akinsola Lawanson's Bosode, a work in which the author draws on a number of science fiction novels and films to construct her own world-building terminology. Focusing on mathematics, philosophy, and medicine in the Nigerian ifá religion, the author uses fantasy literature and West African magical realism as inspiration to integrate the work into the ifá religion and explore the relationship between determinism and choice through video design.
+
+1. According to you, how is this calculated?
+In Bosode, the authors used binary calculations to create an ifá system that allows for divination and decision making systems. This kind of thing is one of the main beliefs that originated in Nigeria, and this system is based on prophecy, divination and mythology to help others solve problems and make decisions.
+
+2. According to you, what themes is this work/artist exploring?
+In my opinion, the author's binary system in Bosode with ifá is combined with a computer algorithm that represents a fusion of religion and modern technology. ifá is built on a mathematical and philosophical level to explore issues, and the two gods, one as a diviner and the other as a guardian of the crossroads, also illustrate the relationship between choice, chance, and determinism in a sideways way.
+
+3. What other artworks are exploring similar themes, and how do they explore this theme in different ways?
+Morehshin Allahyari's "She Who Sees the Unknown" has similarities. In Morehshin Allahyari's "She Who Sees the Unknown," both authors use digital technology in conjunction with religious exploration projects, using 3D printing to design a group of sculptures influenced by Iranian mythology and history, and image generation techniques to recreate images of weird and cool children from the Middle East, using related traditional myths to explore themes related to colonialism, patriarchy and environmental issues related to the Middle East.
+The differences between them are threefold. One, Bosode's exhibition is a film design, while the other is a 3D printed sculpture. Secondly, Bosode explores the relationship between choice and determinism, while the other is a re-exploration and re-interpretation of an ancient Iranian goddess story.
+
+4. What is your favorite part/aspect/element of this artwork?
+I really liked the setting of the different endings in Bosode, which provided me with more opportunities for engagement and reflection, and the philosophical exploration of digital technology combined with religion, which gave the project a more macro and exploratory nature.
+
+5. Based on your comments, what parts (if any) could have been further developed?
+I think the visual and sound design of the film needs to be optimized, for example, half of the author's body looks very unnatural flying from the right side to the left side of the screen, and the performance design and costumes of the author in the film also need further refinement. If possible, the film could be based on the audience showing how the binary works in the ifá system.
+
+6. What the work inspired me
+Bosode It is a very macro blend of art, technology, culture, philosophy, and religion, exploring the dichotomy between choice and determinism, and the contradiction between free will and fatalism, and it attempts to explore the nature of this dichotomy through artistic means. It also made me think about bringing computer thinking and computer elements into the research as well as the creation of the project, such as the author's use of binary as the basis for the construction of ifá. In the science fiction novel "Three Bodies", the author uses binary to build a humanoid computer of 30 million people to explore a higher civilization, which can provide me with more elements in creating digital artworks to build a worldview for the project.
