@@ -23,4 +23,8 @@ It's our future
 Here 'circuit board' suggests the important role that technology plays in human life; 'Nostalgia for the future' implies the fantasy and aspiration for the future that post-human "Nostalgia for the future" implies a vision of the future, which is also advocated by post-humanists; "We're playing God"
 "We're limitless, we're not confined" expresses the desire to transcend the limits of tradition, the freedom and diversity sought by posthumanists. All this points to the author's belonging to the posthumanist category.
 
-In the interview for this work, Viktoria Modesta also emphasises the importance of freedom of creation and self-expression, stating that she is an anti-traditional, anti-rule artist who expresses her creativity and ideas through her music and performances. This is also in line with the view of self-expression and diversity of identity advocated by post-humanist artists.
+In the interview for this work [1] , Viktoria Modesta also emphasises the importance of freedom of creation and self-expression, stating that she is an anti-traditional, anti-rule artist who expresses her creativity and ideas through her music and performances. This is also in line with the view of self-expression and diversity of identity advocated by post-humanist artists.
+
+### References
+
+[1] “Prototype: The Making of | Channel 4.” www.youtube.com, www.youtube.com/watch?v=2fiSAXr4UME&t=1s. Accessed 14 Mar. 2023.
