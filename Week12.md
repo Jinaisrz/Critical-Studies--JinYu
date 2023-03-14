@@ -84,7 +84,13 @@ So I searched for "Computer survival simulations" in technology video numbers an
 
 My conceptual framework is to create a 3D visualization of human gene mutations, enhancements, and evolution, and link them to individual organisms. In the planner, perception factors and various survival variables (such as speed, strength, intelligence, etc.) are established based on priority and timeline, and lifecycles, gene levels, and the environment are set. Action is used to determine when to execute these factors. Ultimately, the computer simulation is observed to derive survival parameters in the gene society, and to summarize the laws and regulations of survival.
 
+———————————————————————————————————————————————————————————————————
 
+### References:
+
+[1] Yanai, I, and Martin, L. (2016). The Society of Genes (Cambridge, Massachusetts: Harvard University Press, , Cop), 6–41
+
+[2] What Are the Basic Characteristics of a Gene Mutation? [n.d.]. www.abace-Biology.com, https://www.abace-biology.com/tech-nucleic-acids1.htm, accessed 20 February 2023
 
 
 
