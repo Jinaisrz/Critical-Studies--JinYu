@@ -94,7 +94,6 @@ My conceptual framework is to create a 3D visualization of human gene mutations,
 
 ———————————————————————————————————————————————————————————————————
 
-### Keywords/ Search engines/ Google books/ Artist websites:
 # Week12.2: The "Pioneer" space station
 
 The "Pioneer" space station supports the inclusion of all skilled and capable personnel. In this new space station, each crew member is required to take an oath pledging to work hard to achieve the station's mission and goals, and to respect and support the diversity and inclusiveness of all members of the station, an oath that reflects the values and work ethic of the crew.
