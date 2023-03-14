@@ -6,12 +6,18 @@ Whereas anti-humanism and philosophical posthumanism emphasise the critique and 
 
 Viktoria Modesta's images and performances in her work are very individual and innovative. Her appearance and image have been technologically modified and designed in many ways, presenting a highly individual and innovative image and expression through her own body modifications and high-tech elements. For example, she wears prosthetic limbs and high heels in her videos, presenting the viewer with an image and aesthetic that is different from, or even anti-conventional. And the author's images and performances not only emphasise body modification and high-tech elements, but more importantly the importance of individual identity and diversity. Through different shapes and images, she presents different identities and roles, and this exploration of identity diversity is in line with the direction of exploration emphasized by posthumanism.
 
-In the lyrics.
+In the lyrics:
+
 Another life filled with parts, circuit board connecting hearts
+
 Nostalgia for the future
+
 We're playing God, and now's the time
+
 We're limitless, we're not confined
+
 It's our future
+
 ...
 
 Here 'circuit board' suggests the important role that technology plays in human life; 'Nostalgia for the future' implies the fantasy and aspiration for the future that post-human "Nostalgia for the future" implies a vision of the future, which is also advocated by post-humanists; "We're playing God"
