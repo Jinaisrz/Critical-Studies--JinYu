@@ -26,6 +26,7 @@ Developments in artificial intelligence have changed our understanding of intell
 
 6. What ethical considerations need to be taken into account when developing a 'stupid' AI system?
 
+
 There are many ethical considerations to take into account when developing an AI system. For 'stupid' systems, these might include
 Ensuring correctness: Because these systems have a limited ability to learn and adapt, they may be prone to misunderstandings and errors. Developers therefore need to ensure the correctness of the system to avoid potential harm and loss.
 Avoiding discrimination: These systems may make judgements based on specific rules and templates, which can lead to discrimination and inequality. Developers therefore need to ensure that the system follows the principles of fairness and equality.
