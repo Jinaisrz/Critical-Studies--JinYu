@@ -83,3 +83,27 @@ So I searched for "Computer survival simulations" in technology video numbers an
 ![10](https://user-images.githubusercontent.com/115119995/225166516-3761d731-3bd9-42ed-8a3e-49a531f16efa.jpg)
 
 My conceptual framework is to create a 3D visualization of human gene mutations, enhancements, and evolution, and link them to individual organisms. In the planner, perception factors and various survival variables (such as speed, strength, intelligence, etc.) are established based on priority and timeline, and lifecycles, gene levels, and the environment are set. Action is used to determine when to execute these factors. Ultimately, the computer simulation is observed to derive survival parameters in the gene society, and to summarize the laws and regulations of survival.
+
+
+
+# Week12.2: The "Pioneer" space station
+
+The "Pioneer" space station supports the inclusion of all skilled and capable personnel. In this new space station, each crew member is required to take an oath pledging to work hard to achieve the station's mission and goals, and to respect and support the diversity and inclusiveness of all members of the station, an oath that reflects the values and work ethic of the crew.
+
+James, who is visually impaired, perceives his environment and operates through sensors on his smart vision aid glasses and smart suit. Corridors within the space station use sound and touch feedback technology to provide navigation and scene descriptions for the crew. With the help of his assistant, he can perform various tasks and operations with the touch of a screen and voice commands.
+
+James, who had passed the test, stood at the hatch." Very good." The Doctor walked over to James and patted him encouragingly on the shoulder and said, "Now go and find your partner and begin your mission."
+
+James nodded to the Doctor and walked into the room, there were three men inside and they were all checking their equipment. James noticed that they had a man with two disabled legs and a man with a hearing impairment, the group seemed to be designed especially for the disabled.
+
+"Hey, everyone. I'm James." He greeted them with a smile.
+
+"Hey, I'm Amy." A woman in a no-walk space suit waved at him.
+
+"I'm Tom." A man with a smart cochlear headset nodded to him.
+
+"I'm Jeff." A man without a disability smiled at him.
+
+These men had been working inside the space station for a long time. The group was tasked with fixing the damaged solar panels on the outside of the station, and James was responsible for guiding the others on the safety line and supervising everyone's safety.
+
+As he put on his space suit and stepped out of the station, James was out in the universe, feeling his senses wrapped up in the beautiful scenery and cold air of space. After they finished their mission in the next few hours, James felt an unexplainable sense of satisfaction knowing that his disability had not prevented him from being a good crew member of the station. James discovered that the space station was not only a technological marvel, but also a social one. Its crew members come from different countries, races, genders and levels of disability. They work closely together and share a common philosophy to achieve a great goal. The station is an ever-changing and progressive community, and its crew is respected and supported in this environment.
