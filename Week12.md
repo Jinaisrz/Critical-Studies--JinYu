@@ -8,7 +8,7 @@ To begin, I first used Google in Chinese to search for the definition of "laws o
 
 ![1](https://user-images.githubusercontent.com/115119995/225165840-8ac24eb6-20bf-4f4e-b07e-83cbe31e72b3.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Keywords/Search engine/Library/Electronic database:
 
@@ -20,13 +20,13 @@ To begin, I first used Google in Chinese to search for the definition of "laws o
 
 ![3](https://user-images.githubusercontent.com/115119995/225166069-f881a691-a74f-47f6-a299-e0e0ab0e9b9a.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Keywords/Search engine/APP/Library:
 
 I searched for the book on the Chinese app "Dedao," which offers knowledge training, sharing, audiobooks, and book reviews. However, I found that the book was non-open source on this platform. I also searched for the book on both Baidu and Google search engines, but no useful results were found. Then, I added the keyword "pdf" to the search term and discovered the website "Huishu Net". I was able to locate and download an open-source version of the book from the website's collection of books in the humanities and social sciences.
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Keywords/ Table of Contents/ Research:
 
@@ -34,7 +34,7 @@ While examining the table of contents of "THE SOCIETY OF GENES" [1] I found the 
 
 ![5](https://user-images.githubusercontent.com/115119995/225166144-6dc83459-8824-4bd3-af31-ba1130978c82.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Question: Under what circumstances is universal failure likely to occur, and what are the consequences?
 
@@ -44,7 +44,7 @@ In the third search result on Google, an explanation of the basic characteristic
 
 ![6](https://user-images.githubusercontent.com/115119995/225166247-33c42e97-0df2-45ee-b8d1-57a6568182d5.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Question: How have the laws of human existence changed in the long term under a genetic society where equality fails?
 
@@ -54,7 +54,7 @@ I searched Google for "The Law of Human Survival Under Basic Mutations", "geneti
 
 ![7](https://user-images.githubusercontent.com/115119995/225166315-408e7ae0-4693-439e-8b39-6568f8e37be3.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Keywords/ Search engines/ Google books/ Artist websites:
 
@@ -62,7 +62,7 @@ Then I searched for "gene-mutated hierarchical society" on an artist platform an
 
 ![8](https://user-images.githubusercontent.com/115119995/225166370-967422fa-1aa7-4aee-807a-c2560992dc77.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Question: How should computers be simulated?
 
@@ -72,7 +72,7 @@ I searched the search engine for "How can a computer simulate a genetic survival
 
 ![9](https://user-images.githubusercontent.com/115119995/225166444-ce2aa76a-b590-425a-8448-2dba3314f328.jpg)
 
-———————————————————————————————————————————————————————————————————
+
 
 ### Keywords/ Search engines/ Technology platforms / Technology practice video number:
 
@@ -84,7 +84,7 @@ So I searched for "Computer survival simulations" in technology video numbers an
 
 My conceptual framework is to create a 3D visualization of human gene mutations, enhancements, and evolution, and link them to individual organisms. In the planner, perception factors and various survival variables (such as speed, strength, intelligence, etc.) are established based on priority and timeline, and lifecycles, gene levels, and the environment are set. Action is used to determine when to execute these factors. Ultimately, the computer simulation is observed to derive survival parameters in the gene society, and to summarize the laws and regulations of survival.
 
-———————————————————————————————————————————————————————————————————
+
 
 ### References:
 
@@ -92,11 +92,9 @@ My conceptual framework is to create a 3D visualization of human gene mutations,
 
 [2] What Are the Basic Characteristics of a Gene Mutation? [n.d.]. www.abace-Biology.com, https://www.abace-biology.com/tech-nucleic-acids1.htm, accessed 20 February 2023
 
+———————————————————————————————————————————————————————————————————
 
-
-
-
-
+### Keywords/ Search engines/ Google books/ Artist websites:
 # Week12.2: The "Pioneer" space station
 
 The "Pioneer" space station supports the inclusion of all skilled and capable personnel. In this new space station, each crew member is required to take an oath pledging to work hard to achieve the station's mission and goals, and to respect and support the diversity and inclusiveness of all members of the station, an oath that reflects the values and work ethic of the crew.
