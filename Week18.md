@@ -11,11 +11,11 @@ The main difference between a 'stupid' AI system and a highly intelligent system
 
 ## 3. What are the potential benefits and drawbacks of creating a 'stupid' AI system?
 
-# Potential benefits:
+### Potential benefits:
 
 First, creating a 'dumb' AI system makes it easier to master its behaviour and performance, as these systems are less likely to have complex errors and unexpected behaviour. In addition, the cost and development time of these systems is usually lower, as they require fewer resources and skills.
 
-# Potential drawbacks:
+### Potential drawbacks:
 
 Because they are limited in their capabilities, multiple 'stupid' systems may be required to complete complex tasks, which can increase the cost of development and maintenance. In addition, these systems may require more human intervention and supervision to ensure that they perform well and correctly.
 
