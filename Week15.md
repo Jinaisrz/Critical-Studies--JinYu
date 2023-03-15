@@ -21,4 +21,17 @@ There are three differences between them. Firstly, Bosode's exhibition is a film
 
 ![14](https://user-images.githubusercontent.com/115119995/225171169-326b4109-1c52-4d33-ab32-8bdf726b1491.jpg)
 ![15](https://user-images.githubusercontent.com/115119995/225171182-a3e4229d-0631-4b47-a0b9-8458b57b6ae9.jpg)
+（She Who Sees the Unknown）
 
+
+### What is your favourite part/aspect/element of this artwork?
+
+I really liked the setting of the different endings in Bosode, which provided me with more opportunities for engagement and reflection, and the philosophical exploration of digital technology combined with religion, which gave the project a more macro and exploratory dimension.
+
+### Based on your comments, what parts (if any) could have been developed further?
+
+I think that the visual and sound design of the film needs to be optimised, for example half of the author's body looks very unnatural flying from the right side of the frame to the left, and the performance design and costumes of the author in the film need further refinement. If possible, the film could be based on binary to show how this algorithm works in the ifá system.
+
+### What the work has taught me?
+
+Bosode it is a very macro blend of art, technology, culture, philosophy and religion, exploring the dichotomy between choice and determinism, and the contradiction between free will and fatalism, and it attempts to explore the nature of this dichotomy through artistic means. This also made me think about bringing computer thinking and computer elements into the research and creation of the project. For example, the author's use of binary as the basis for the construction of ifá reminded me of the science fiction novel Three Bodies, where the author uses binary to build a giant humanoid computer of 30 million people to explore a higher civilisation, which could provide me with more elements in creating digital artworks to build The world view of the project's creation.
