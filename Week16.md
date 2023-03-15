@@ -1,4 +1,4 @@
-
+# Week16: Trans and Posthumanism
 
 Based on Prototype, as performed by Viktoria Modesta, I would argue that Viktoria Modesta is more in line with the posthumanist artist. The emphasis on body modification and high-tech elements in her work is one of the characteristics of transhumanism, but more importantly the emphasis on individuality, self-expression and the exploration of diversity of identity in her work is one of the core ideas of posthumanism.
 
