@@ -1,4 +1,12 @@
-—————————————————————————————————————————————————————————————————————————————
+# Week14.1: What is literacy and what does it mean to call computer programming a literacy? 
+
+Literacy is important to the status and financial health of nations and is generally interpreted as the ability to read and write for the use and understanding of numerous forms of communication. It is also used as a code of knowledge and literacy skills in various areas of society generally reflecting the literacy of people in society, for example: technological literacy, financial literacy, cultural literacy, visual literacy, etc.
+
+In an age where technology is guiding social and cultural development and when computer programming is referred to as literacy, this means that it is seen as an essential skill necessary for full participation in the modern world. Programming is also a socially positioned symbolic system and communication phenomenon that expands on pre-existing forms of communication. This is precisely because computer programming has similarities to writing, as it has become a fundamental tool and method of organising information, with the most original underlying logic of building code being above or below writing. So while reading and writing were once the skills of a few, so too were programming languages, and this process needed to be "literate" in order to raise the digital literacy of society as a whole and to promote economic, technological and social development.
+
+Reading, writing and modifying code is not only a skill that can be used in creative business, data analysis, data interaction, social activism and artistic creation. It can also be used as a cognitive skill, which involves mathematics, problem solving, logical thinking and creative thinking. In terms of social responsibility it allows one to better understand the ethics and values of the digital technological world, to adapt to the digital world and also to recognise that technological decisions have an impact on others, thus promoting ethics as well as social responsibility.
+
+—————————————————————————————————————————————————————————————————
 
 # Week14.2: What are the new thoughts that come to you and help problematising the notion of coding literacy?  Which quotes or sentences inspire you to think more? 
 
